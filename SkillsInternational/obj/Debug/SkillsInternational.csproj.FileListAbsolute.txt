@@ -1,0 +1,11 @@
+D:\DYNAC\Campus_Projs\Esoft\SkillsInternational\SkillsInternational\bin\Debug\SkillsInternational.exe.config
+D:\DYNAC\Campus_Projs\Esoft\SkillsInternational\SkillsInternational\bin\Debug\SkillsInternational.exe
+D:\DYNAC\Campus_Projs\Esoft\SkillsInternational\SkillsInternational\bin\Debug\SkillsInternational.pdb
+D:\DYNAC\Campus_Projs\Esoft\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.csproj.AssemblyReference.cache
+D:\DYNAC\Campus_Projs\Esoft\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.Login.resources
+D:\DYNAC\Campus_Projs\Esoft\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.Properties.Resources.resources
+D:\DYNAC\Campus_Projs\Esoft\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.csproj.GenerateResource.cache
+D:\DYNAC\Campus_Projs\Esoft\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.csproj.CoreCompileInputs.cache
+D:\DYNAC\Campus_Projs\Esoft\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.exe
+D:\DYNAC\Campus_Projs\Esoft\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.pdb
+D:\DYNAC\Campus_Projs\Esoft\SkillsInternational\SkillsInternational\obj\Debug\SkillsInternational.Register.resources
